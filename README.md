@@ -35,8 +35,8 @@ Esto deberia cargar un host local en su maquina y usted deberia ser capaz de ver
 
 ### Imagenes 
 #### Menu principal 
-![Menu](![image](https://github.com/samuelinchis/POO-Proyecto-2/assets/110745715/35f0dde9-235e-4e7b-8c42-cd8e56fffda8)
-)
+![menu](https://github.com/samuelinchis/POO-Proyecto-2/assets/110745715/35f0dde9-235e-4e7b-8c42-cd8e56fffda8)
+
 
 ***Gracias por haber leido el readme. Esperamos que este manual tecnico haya sido de ayuda***
 :+1:

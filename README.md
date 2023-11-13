@@ -15,6 +15,9 @@ Tiene manejo de:
 + Embarque y Desembarque
 + Despegue de las aeronaves
 
+### URL del diagrama UML
+[UML del proyecto: ](https://drive.google.com/file/d/1QQuqSKlvtWPbxBGrnM5tDPPKCx0hQrST/view?usp=sharing)
+
 ### Explicación del programa
 El simulador permite crear aeronaves, tripulantes, pasajeros, aerolineas, puertas de embarque y vuelos. Ademas el
 sistema permite consultar informacion sobre estos objetos y tiene la funcionalidad de consultar informacion general

@@ -44,7 +44,7 @@ Esta version del proyecto cuenta con 14 clases las cuales son
 + Pasajero
 + TorreControl
 
-El programa utiliza un framework llamado streamlit por eso en muchos de los archivos se puede ver que en las cabezeras se hace un ´import streamlit as st´
+El programa utiliza un framework llamado streamlit por eso en muchos de los archivos se puede ver que en las cabezeras se hace un `import streamlit as st`
 En la opcion de consultar informacion sobre los paises se hace el uso de una API y se ultilizan librerias como json y request para conectarse al servidos en linea
 
 ### Como compilarlo

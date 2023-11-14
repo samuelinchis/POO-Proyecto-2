@@ -1,5 +1,7 @@
 # POO-Proyecto-2
 Aqui se publican todos los archivos relacionados al proyecto final de POO
+## URL
+https://poo-proyecto-2-jfbw955crz9fkxpmitjbfh.streamlit.app/
 
 # Manual técnico del proyecto 2
 
